@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a1f77767-8bfd-4c3a-8a3a-2e2ca08f1adc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Scatter Plot.py</StartupFile>
+    <StartupFile>Polynomial Regression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="Data Distribution.py" />
     <Compile Include="Normal Data Distribution.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Polynomial Regression.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Scatter Plot.py">
