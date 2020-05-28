@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a1f77767-8bfd-4c3a-8a3a-2e2ca08f1adc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Polynomial Regression.py</StartupFile>
+    <StartupFile>Train-Test.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Scatter Plot.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Train-Test.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
