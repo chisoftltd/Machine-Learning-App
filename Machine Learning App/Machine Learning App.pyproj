@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a1f77767-8bfd-4c3a-8a3a-2e2ca08f1adc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Train-Test.py</StartupFile>
+    <StartupFile>Decision Tree.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Data Distribution.py" />
+    <Compile Include="Decision Tree.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Normal Data Distribution.py">
       <SubType>Code</SubType>
     </Compile>
